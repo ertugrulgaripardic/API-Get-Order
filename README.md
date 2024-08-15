@@ -34,9 +34,7 @@ This is a Python API application that interacts with an API to retrieve and disp
     ```sh
     python app.py
     ```
-
 2. Enter your API key in the provided field and click "Login".
-
 3. After successful login, click "Get Orders" to fetch and display the orders.
 
 ## File Structure
