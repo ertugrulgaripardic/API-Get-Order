@@ -48,5 +48,4 @@ This is a Python API application that interacts with an API to retrieve and disp
 ![api3](https://github.com/ertugrulgaripardic/API-Get-Order/assets/118535200/bc2fa19d-bae5-4a2e-a5c9-ad8a9eb6e4f2)
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
