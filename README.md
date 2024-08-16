@@ -30,6 +30,7 @@ This is a Python API application that interacts with an API to retrieve and disp
     ```
 
 ## Usage
+
 1. Run the application:
     ```sh
     python app.py
