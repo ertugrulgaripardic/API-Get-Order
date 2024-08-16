@@ -6,7 +6,6 @@
 This is a Python API application that interacts with an API to retrieve and display order data. The application provides a graphical user interface (GUI) using Tkinter for easy interaction.
 
 ## Features
-
 - **Login**: Authenticate with the API using an API key.
 - **Fetch Orders**: Retrieve and display orders from the API.
 
