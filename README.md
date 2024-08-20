@@ -27,7 +27,7 @@ This is a Python API application that interacts with an API to retrieve and disp
     pip install requests
     ```
 
-## Usage
+## Usage Here
 
 1. Run the application:
     ```sh
