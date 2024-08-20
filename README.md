@@ -22,7 +22,6 @@ This is a Python API application that interacts with an API to retrieve and disp
     git clone https://github.com/ertugrulgaripardic/API-Get-Order.git
     cd API-Get-Order
     ```
-
 2. Install the required libraries:
     ```sh
     pip install requests
